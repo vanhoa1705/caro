@@ -1,0 +1,11 @@
+﻿  main.cpp
+f:\new folder\caro\finally\democaro_finally\democaro\democaro\main.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  _Board.cpp
+  _Common.cpp
+  _Game.cpp
+  _MenuGame.cpp
+f:\new folder\caro\finally\democaro_finally\democaro\democaro\_menugame.cpp(469): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+f:\new folder\caro\finally\democaro_finally\democaro\democaro\_menugame.cpp(471): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  _Point.cpp
+  Generating Code...
+  DemoCaro.vcxproj -> F:\New folder\Caro\Finally\DemoCaro_Finally\DemoCaro\x64\Debug\DemoCaro.exe
